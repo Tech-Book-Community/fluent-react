@@ -61,7 +61,7 @@
     </td>
     <td>Ashley</td>
     <td>Lois</td>
-    <td>Slide</td>
+    <td><a href="https://fluent-react-ch5.vercel.app/1">Slide</a><</td>
     <td>Note</td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
     <td>Steven</td>
     <td>Ashley</td>
     <td>Slide</td>
-    <td>Note</td>
+    <td><a href="https://ashley-2021.vercel.app/articles/frontEnd/react/concurrent-react">Note</a><</td>
   </tr>
   <tr>
     <td>2025/11/18</td>
